@@ -1,0 +1,13 @@
+Qty,partname,description,lib
+0,"74LS125","Quad buffer 3 State out","74xx"
+0,"AX5043","","AX5043"
+0,"Antenna_Shield","Antenna symbol with extra pin for shielding","device"
+0,"C","Unpolarized capacitor","device"
+0,"CONN_02X06","Connector, double row, 02x06","conn"
+0,"CP","Polarised capacitor","device"
+0,"Crystal","Two pin crystal","device"
+0,"L","Inductor","device"
+0,"LED","LED generic","device"
+0,"Q_NPN_BCE","Transistor NPN (general)","device"
+0,"R","Resistor","device"
+0,"TEST","Testpoint, connection for test equipment","device"

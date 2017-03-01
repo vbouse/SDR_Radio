@@ -1,4 +1,4 @@
-update=21.02.2017 20:51:57
+update=23.02.2017 21:13:53
 version=1
 last_client=kicad
 [pcbnew]
@@ -22,6 +22,9 @@ BoardOutlineThickness=0.100000000000
 ModuleOutlineThickness=0.150000000000
 [general]
 version=1
+[cvpcb]
+version=1
+NetIExt=net
 [eeschema]
 version=1
 LibDir=E:/FILES_Vaclav/Documents/gEDA
@@ -56,9 +59,7 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=AX5043
-[cvpcb]
-version=1
-NetIExt=net
+LibName31=C:/Program Files/KiCad/share/kicad/library/texas
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
